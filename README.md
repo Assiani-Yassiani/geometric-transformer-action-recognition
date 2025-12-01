@@ -71,18 +71,7 @@ Résultats surpassant les approches existantes sur les benchmarks NTU RGB+D et N
 - Réalité Virtuelle
 - Analyse Sportive
 
-## 📝 Publication
 
-**Titre**: Transformer-based Geometric Deep Learning for Skeleton Sequence Classification: An improved Approach
-
-**Auteurs**: Mohamed Amine MEZGHICH, Mariem JENDOUBI, Yassine ASSIANI, Slim MHIRI
-
-**Laboratoire**: CRISTAL laboratory, GRIFT Research Group  
-**Institution**: École Nationale des Sciences de l'Informatique (ENSI), La Manouba University, Tunisia
-
-**Statut**: ✅ Article Accepté
-
-📄 **L'article complet est disponible dans ce repository.**
 
 ---
 
